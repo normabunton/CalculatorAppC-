@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\ElevenFiftyProjects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\ElevenFiftyProjects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\ElevenFiftyProjects\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\ElevenFiftyProjects\Calculator\Calculator\obj\Debug\Calculator.pdb
